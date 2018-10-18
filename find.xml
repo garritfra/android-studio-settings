@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/de/volkswagen/avacar/ui/vehicle_management/MyVolkswagenFragment.java [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/de/volkswagen/avacar/ui/vehicle_management/MyVolkswagenFragment.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/de/volkswagen/avacar/ui/vehicle_management/MyVolkswagenFragment.java [app]'" />
+    <option name="customScope" value="File '.../app/src/main/java/de/volkswagen/avacar/util/json/ParseCarportTask.java [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/de/volkswagen/avacar/util/json/ParseCarportTask.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/de/volkswagen/avacar/util/json/ParseCarportTask.java [app]'" />
   </component>
 </application>
