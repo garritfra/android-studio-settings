@@ -1,6 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c329ea43-9f67-4874-ab9e-e2ce8625e5d1" name="garritfra">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="garritfra" />
-    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
